@@ -4,7 +4,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Kanban via Jekyll
 baseurl: "" # the subpath of your site, e.g. /Kanban-Tool/
 url: "https://kanban.capadesu.space" # the base hostname & protocol for your site
-twitter_username: barungoding.net
 github_username:  barungoding
 
 # Build settings
